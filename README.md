@@ -1,5 +1,5 @@
 ### Plugin/Program/Game/Web Developer
-- [SkyIsle(MC Server)](https://github.com/skyisle-dev) Plugin/Web Developer
+- MC Plugin/Web Developer
 - I ported shiningdark#6893's The_World to C#
 - ...And more
 ### Stat
